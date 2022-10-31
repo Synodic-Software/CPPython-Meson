@@ -1,2 +1,4 @@
 # CPPython-Meson
-Meson generator plugin for CPPython
+
+A plugin for CPPython that implements a Meson generator for C++ projects.
+
